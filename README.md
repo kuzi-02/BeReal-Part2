@@ -25,6 +25,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+![BeReal Gif](https://user-images.githubusercontent.com/113659365/229622842-95c11813-d3bc-40b8-9a5a-2d2590cc0dcb.gif)
 
 
 ## Notes
