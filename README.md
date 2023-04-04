@@ -25,7 +25,8 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-![BeReal Gif](https://user-images.githubusercontent.com/113659365/229622842-95c11813-d3bc-40b8-9a5a-2d2590cc0dcb.gif)
+
+![BeReal2 Gif](https://user-images.githubusercontent.com/113659365/229838384-3b666152-d8af-4330-b987-9da89ac13ca2.gif)
 
 
 ## Notes
